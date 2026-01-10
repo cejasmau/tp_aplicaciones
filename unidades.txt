@@ -1,0 +1,32 @@
+https://siga.inta.gob.ar
+
+Fecha	
+Temperatura_Abrigo_150cm (°C)
+Temperatura_Abrigo_150cm_Maxima (°C)
+Temperatura_Abrigo_150cm_Minima (°C)
+Temperatura_Intemperie_5cm_Minima (°C)
+Temperatura_Intemperie_50cm_Minima (°C)
+Temperatura_Suelo_5cm_Media (°C)
+Temperatura_Suelo_10cm_Media (°C)
+Temperatura_Inte_5cm (°C)
+Temperatura_Intemperie_150cm_Minima (°C)
+Humedad_Suelo (%)
+Precipitacion_Pluviometrica (mm)
+Precipitacion_Cronologica (mm)
+Precipitacion_Maxima_30minutos (mm)
+Heliofania_Efectiva (h)
+Heliofania_Relativa (%)
+Tesion_Vapor_Media (hPa)
+Humedad_Media (%)
+Humedad_Media_8_14_20 (%)
+Rocio_Medio (°C)
+Duracion_Follaje_Mojado (h)
+Velocidad_Viento_200cm_Media (km/h)
+Direccion_Viento_200cm 
+Velocidad_Viento_1000cm_Media (km/h)
+Direccion_Viento_1000cm 
+Velocidad_Viento_Maxima (km/h)
+Presion_Media (Pa)
+Radiacion_Global (MJ/m2)
+Horas_Frio (h)
+Unidades_Frio
