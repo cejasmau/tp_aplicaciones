@@ -1,0 +1,40 @@
+Apuntes 10/12:
+
+# Tenemos que unificar los tres archivos
+# Los datasets tienen fecha del 08-12-2025, están actualizados.
+# Estos provienen de tres estaciones meteorológicas distintas, aunque cercanas.
+# En la pestaña 'Datos estacion' nos da más información sobre cada estación.
+# Los valores están tomados con medidas diarias, no corresponden a un momento específico del día.
+
+# Variable objetivo: El valor que más nos va a interesar es la radiación global (columna AB)
+# De las 500 estaciones meteorológicas del INTA, solo 40 tienen información sobre radiación global.
+# ¿Podríamos predecir la radiación con menos cantidad de información que la que tenemos?
+# Falta de sentido de agregar muchas variables. 
+# Nos van a pedir que nos quedemos con las 4, 5, 6 variables que más servirían para modelar la radiación solar..
+
+# Fecha: es fundamental por la época del año, aunque también se refleja en el resto de los parámetros.
+# Podríamos hacer un análisis completo, o un análisis estacional 
+# (filtrando los datos por estación codificando los valores de las fechas, por ejemplo).
+
+# Vacíos en la variable Radiación_Global: vamos a tener que considerar solo aquellas filas que tengan valor en dicha columna para poder
+# hacer el entrenamiento y el testeo. 
+
+# Ver si rinde sumar el dato de latitud y longitud sobre los que se ubiquen las estaciones meteorológicas.
+
+# No va  a haber algo que esté mal o que esté bien, sino que lo importante va a ser la explicación que demos de las decisiones que tomemos.
+# El objetivo no es que las métricas sean perfectas, sino que empecemos a entender la aplicación de la ciencia de datos
+# e ir aplicando las distintas herramientas que fuimos aprendiendo a lo largo de la maeestría
+# El objetivo no es obtener las métricas óptimas, sino el desarrollo del trabajo.
+# Preparación para la tesis.
+
+Apuntes 17/12:
+
+# Últimas 4 clases del curso van a ser después del carnaval. 
+# Las primeras dos clases van a ser de consulta y las otras dos de presentación
+# Si ya tenemos cerrado el trabajo, se puede presentarlo durante la primera semana para sacarnoslo de encima.
+
+# Con que un solo integrante lo suba al espacio de entrega, estamos bien. 
+
+# Presentaciones de 10/15 min de largo. Resumidas. En Power Point.
+# Fecha de entrega máxima: 22 de febrero, para que los profesores puedan leer el informe.
+# Comprimido en winrar con apellidos de los integrantes.
