@@ -23,7 +23,7 @@ Apuntes 10/12:
 
 # No va  a haber algo que esté mal o que esté bien, sino que lo importante va a ser la explicación que demos de las decisiones que tomemos.
 # El objetivo no es que las métricas sean perfectas, sino que empecemos a entender la aplicación de la ciencia de datos
-# e ir aplicando las distintas herramientas que fuimos aprendiendo a lo largo de la maeestría
+# e ir aplicando las distintas herramientas que fuimos aprendiendo a lo largo de la maestría
 # El objetivo no es obtener las métricas óptimas, sino el desarrollo del trabajo.
 # Preparación para la tesis.
 
