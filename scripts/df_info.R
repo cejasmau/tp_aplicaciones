@@ -11,7 +11,7 @@ info_df <- tibble(
   unidad = c("-", "°C", "°C", "°C", "°C", "°C", "°C", "°C", "°C", "°C", 
              "%", "mm", "mm", "mm", "h", "%", "hPa", "%", "%", "°C", 
              "h", "km/h", "-", "km/h", "-", "km/h", "Pa", "MJ/m2", "h", "-",
-             "°(GD)", "°(GD)", "-")) |>
+             "-")) |>
   mutate(tipo = case_match(tipo,
                            "numeric"   ~ "Numérico",
                            "character" ~ "Texto",
