@@ -19,9 +19,8 @@ tabla_gt <- resumen_final |>
     table.border.bottom.width = px(2),
     column_labels.border.bottom.color = "black",
     column_labels.border.bottom.width = px(1),
-    data_row.padding = px(5),           # Espaciado para que no se vea apretada
-    table.width = px(600)               # Ancho fijo para consistencia
-  ) |>
+    data_row.padding = px(5),           
+    table.width = px(600)) |>              
   
   cols_align(align = "left", columns = 1) |>
   cols_align(align = "center", columns = -1) 
