@@ -2,7 +2,7 @@ library(tidyverse)
 library(gt)
 library(chromote)
 
-resumen_final <- read.csv("output/resumen_estadistico.csv")
+resumen_final <- read_csv("output/resumen_estadistico.csv")
 
 tabla_gt <- resumen_final |>
   gt() |>
